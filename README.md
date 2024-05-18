@@ -8,6 +8,8 @@
 
 <h2 align=right>:مهارت ها و ابزار هایی که استفاده می کنم</h2>
 
+Django 	![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 
 https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white  https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white  https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
   https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black  https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white  https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white
